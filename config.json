@@ -7,5 +7,12 @@
   "team": [],
   "rules": [],
   "gallery": [],
-  "music": []
+  "music": [
+    {
+      "title": "Test Song",
+      "artist": "Tha Projects",
+      "cover": "/cover.jpg",
+      "src": "/video.mp4"
+    }
+  ]
 }
