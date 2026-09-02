@@ -8,41 +8,41 @@
   "rules": [],
   "gallery": [],
   "music": [
-    {
-      "title": "Someone You Love",
-      "artist": "EBK Jaaybo",
-      "cover": "",
-      "src": "music/song1.mp3"
-    },
-    {
-      "title": "Body's Rus",
-      "artist": "Jhoodtwin",
-      "cover": "",
-      "src": "music/song2.mp3"
-    },
-    {
-      "title": "Box That Bx",
-      "artist": "QMC Reece",
-      "cover": "",
-      "src": "music/song3.mp3"
-    },
-    {
-      "title": "Gklappa Scene",
-      "artist": "NBSFullyb7x",
-      "cover": "",
-      "src": "music/song4.mp3"
-    },
-    {
-      "title": "Head Taps",
-      "artist": "326Kelz",
-      "cover": "",
-      "src": "music/song5.mp3"
-    },
-    {
-      "title": "LOAD EM UP",
-      "artist": "hopoutso700 x EBK Jaaybo",
-      "cover": "",
-      "src": "music/song6.mp3"
-    }
-  ]
+  {
+    "title": "Someone You Love",
+    "artist": "EBK Jaaybo",
+    "cover": "",
+    "src": "./music/song1.mp3"
+  },
+  {
+    "title": "Body's Rus",
+    "artist": "Jhoodtwin",
+    "cover": "",
+    "src": "./music/song2.mp3"
+  },
+  {
+    "title": "Box That Bx",
+    "artist": "QMC Reece",
+    "cover": "",
+    "src": "./music/song3.mp3"
+  },
+  {
+    "title": "Gklappa Scene",
+    "artist": "NBSFullyb7x",
+    "cover": "",
+    "src": "./music/song4.mp3"
+  },
+  {
+    "title": "Head Taps",
+    "artist": "326Kelz",
+    "cover": "",
+    "src": "./music/song5.mp3"
+  },
+  {
+    "title": "LOAD EM UP",
+    "artist": "hopoutso700 x EBK Jaaybo",
+    "cover": "",
+    "src": "./music/song6.mp3"
+  }
+]
 }
