@@ -1,48 +1,11 @@
 {
   "serverName": "Tha Projects",
   "description": "Tha Projects | Serious Roleplay",
-  "discordUrl": "YOUR_DISCORD_LINK",
-  "tebexUrl": "YOUR_TEBEX_LINK",
+  "discordUrl": "#",
+  "tebexUrl": "#",
   "discordCard": null,
   "team": [],
   "rules": [],
   "gallery": [],
-  "music": [
-    {
-      "title": "Song 1",
-      "artist": "Artist",
-      "cover": "/cover.jpg",
-      "src": "/song1.mp3"
-    },
-    {
-      "title": "Song 2",
-      "artist": "Artist",
-      "cover": "/cover.jpg",
-      "src": "/song2.mp3"
-    },
-    {
-      "title": "Song 3",
-      "artist": "Artist",
-      "cover": "/cover.jpg",
-      "src": "/song3.mp3"
-    },
-    {
-      "title": "Song 4",
-      "artist": "Artist",
-      "cover": "/cover.jpg",
-      "src": "/song4.mp3"
-    },
-    {
-      "title": "Song 5",
-      "artist": "Artist",
-      "cover": "/cover.jpg",
-      "src": "/song5.mp3"
-    },
-    {
-      "title": "Song 6",
-      "artist": "Artist",
-      "cover": "/cover.jpg",
-      "src": "/song6.mp3"
-    }
-  ]
+  "music": []
 }
